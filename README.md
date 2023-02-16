@@ -8,3 +8,6 @@ de uso se le puede dar a un dispositivo con una determinada batería.
 
 ## Capturas del Frontend
 ![image](https://user-images.githubusercontent.com/75576067/219482668-68b9f3cf-4ed0-4529-bd9a-dc4b60398ba6.png)
+
+## Demo Online
+https://calculadorabateria.000webhostapp.com/
